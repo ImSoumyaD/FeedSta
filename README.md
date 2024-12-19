@@ -13,7 +13,9 @@ This project serves as the backbone for a social media platform, offering featur
 
 - **Post Creation and Media Upload**  
   - Users can create posts with text, images, and videos. 📝📸🎥  
-  - Upload and share short-form video reels. 🎞️  
+  - Upload and share short-form video reels. 🎞️
+ 
+- **Chat Feature** (Upcoming)
 
 - **User Interaction**  
   - Comment on posts and reply to other comments. 💬  
